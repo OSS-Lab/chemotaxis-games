@@ -1,6 +1,6 @@
 // chemotaxis model with four species
 //
-// This model simulates four different chemotaxis stratergies:
+// This model simulates four different chemotaxis strategies:
 //   (1) no movement (red bugs)
 //   (2) random movement (yellow bugs)
 //   (3) movement decisions based on the current level of food (green bugs)
